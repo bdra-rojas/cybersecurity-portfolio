@@ -1,10 +1,7 @@
 # cybersecurity-portfolio
 Writeups, notes, and labs from my cybersecurity learning journey toward SOC analyst.
 
-# Cybersecurity Portfolio
-
-Hi, I'm Benjamin. Computer engineer transitioning into cybersecurity, 
-focused on SOC analyst / blue team roles or red team roles, i'm not sure, I believe I will make this decision during this process.
+Hi, I'm Benjamin. Computer engineer transitioning into cybersecurity. Currently building foundations in both blue team (SOC, defense) and offensive security to define my specialization through hands-on practice.
 
 ## Current focus
 - CompTIA Security+ (in progress)
