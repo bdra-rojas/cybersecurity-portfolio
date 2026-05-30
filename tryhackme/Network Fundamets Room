@@ -1,0 +1,45 @@
+#  Network Fundaments- TryHackMe
+
+**Fecha:** 2026-XX-XX
+**Dificultad:** Info / Easy / Medium / Hard
+**Path:** Pre Security
+**Tags:** networking, linux, web, etc.
+
+---
+
+## Resumen
+
+Una o dos líneas de qué trata el room. No introducción larga, solo contexto.
+
+## Conceptos clave aprendidos
+
+Los 3-5 conceptos más importantes que sacaste del room. Bullets cortos y específicos. No "aprendí mucho", sino:
+
+- Concepto X: explicación breve con tus palabras.
+- Concepto Y: explicación breve con tus palabras.
+- Concepto Z: explicación breve con tus palabras.
+
+## Comandos / herramientas usadas
+
+Tabla o lista de los comandos y para qué sirven. Solo si el room tiene comandos reales.
+
+| Comando | Descripción |
+|---------|-------------|
+| `ls -la` | Lista archivos incluyendo ocultos y permisos |
+| `cat archivo` | Muestra el contenido de un archivo |
+
+## Donde me trabé / lecciones
+
+Lo más honesto que escribas. Si no te trabaste en nada, omítelo. Si sí:
+
+- Perdí X minutos pensando que era Y cuando en realidad era Z.
+- No me daba cuenta de [error común].
+
+## Aplicación al rol SOC
+
+¿Para qué le sirve esto a un SOC analyst? Una o dos líneas conectando el contenido con tu objetivo. Esta sección es la que más impresiona a reclutadores.
+
+## Referencias
+
+- Link al room en TryHackMe
+- Cualquier recurso externo que usaste
