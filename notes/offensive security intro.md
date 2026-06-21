@@ -1,4 +1,5 @@
 #Offensive
+
 offensive security is about to thinking like an attacker to find weaknesses before real hackers do.
 
 the terminal is used to interact with the device and cybersecurity tools.
@@ -21,7 +22,9 @@ We can stop the attacker form continuing on inmediately while we investigate and
 known as containment. First containt the attack meanwhile investigate the event.
 
 #Roles
+
 ##Security analyst
+
 Security analyst is a inportant role in a organisation's defence. These people monitor, investigate and respond to activity taking
 place on an organisation's device and network.
 their usual activities are:
