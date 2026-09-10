@@ -1,0 +1,23 @@
+Today there are diferentes types of computers whith diferents purposes.
+*Portable everyday computing
+*Sustained performance at a fixed location
+Here are some examples:
+*Laptop ==> Laptops are built tio be portable
+*Desktop ==> It stayed in one place
+*Worksattion ==> It prioritize accuracy and reliability, using specialized components to reduce errors during long or complex computations
+*Server ==> 
+*Smartphone ==> pocket-sized computer optimized for battery life and connectivity
+*Tablet ==> Touch-first computer with larger screen
+*IoT device ==>Network-connected device with a single purpose. There are designe for a specific function, often without user intervention. 
+  These devices communicate with other systems over the internet to collect data or perform tasks.
+*Embedded computer ==> Computer build into another device.
+
+why aren't there only one computer that does everything?
+
+Because every design is a trade-off. Mobility costs power. Smaller, portable computers must sacrifice sustained preformance. reliability costr money.
+Ther is no best computer. here is only ther right tool for the job.
+
+What does server redundacy prevent?
+
+Single point failure. It is any component of a system that, if it stops functioning, causes the entire system to fail.
+Redundancy means having duplicate or backup components that can take over if the primary one fails.
