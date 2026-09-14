@@ -1,0 +1,50 @@
+Service, Server, Server
+
+Describe the roles that different components play in network communication.
+The client is who initiates a request fro a service.
+Server is who processes the request
+The service is operation itself
+
+Protocol
+A protocol defines how a clinet can communicate with the server. This definition includes:
+-Which commands do the client and server understand
+-How request is structured
+-What sybtax is used
+-What response should be given to which type of request
+-What response ti give to faulty requests.
+
+Port
+A port is to identity a specific service running on a system. When client wnats to access a service on a server, it must connect using the correct port.
+A services on a server listens on a spcefic port
+A single server can run multiple services at the same time, with each service identified by a different port.
+
+DNS
+Domain Name Service, when ebter a name of DNS resolves it to server's location
+
+IP
+Internet Protocol is the addres por the websites.
+
+HTTPS
+Hypertext Transfer Protocol(Secure) is a stateless client-server protocol used for the World Wide Web. This means that each request is processed indenpendently, without the server retaining information about previos request.
+Protocol itself is stateless, modern websites and web applications implements mechanism to introduce statefulness at the application level.
+statefulness refers to the ability of a system to remember previous interactions or states, this work generating a session identifier, which is commonly stored in a cookie or token.
+there ar 9 core commands, In HTTO lingo, we use ther term method instead of command.
+-GET
+-POST
+-PUT
+-DELETE
+-PATCH
+-HEAD
+-OPTIONS
+-CONNECT
+-TARCE
+
+GET
+we can use this method to retrieve a resource from web server. For example GET https://google.com/contact.
+RFC, ==> Request for comments, that is series of documents prodeuced by the Internet Engineering Task Force(IETF) and other working groups that describe vbarious protocols, procedures, programs and concepts related to the internet
+and networking. Ger request have informations like:
+-Scheme ==> Tells us which protocol was used: Htpp or Htpps
+-Host == Tells the name of the host request resources from
+-Filename ==> Indicates which file we request from the host.
+-Address ==> Displays the IP address where the websites is hosted
+-Status ==> This field indicates whether the request was successful.
